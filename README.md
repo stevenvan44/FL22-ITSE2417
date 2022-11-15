@@ -1,4 +1,4 @@
-# SP22-ITSE2417
+# FL22-ITSE2417
 Final Project for ITSE-2417
 <hr/>
 Be sure take a look at the sequence of actions that you should take to complete this lab as described in the Final Project Assignment in myTCC.
@@ -9,7 +9,7 @@ The goal is for you to
   <li>Modify the main program to successfully instantiate your object(s), and</li>
   <li>Submit your new program and the modified Itse2417Main.java back to the GitHub repository.</li>
 </ol>
-If your changes are accepted, they will be added to the final source code on Github and appear on further fork that occurs from the main branch.
+If your changes are accepted, they will be added to the final source code on Github and appear on fork from the main branch.
 
 Start early and keep moving forward. Almost done.
 
