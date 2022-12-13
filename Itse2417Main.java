@@ -63,7 +63,7 @@ public class Itse2417Main
             new FinalProj(),          // Ramirez
             new FinalProj(),          // Sylvester
             new FinalProj(),          // Thurman
-            new FinalProj(),          // Vanslyke                                                
+            new Vanslyke(),          // Vanslyke                                                
             new SmileyMenu()          // Smiley
                                                     ));
     // ***************************************************************
